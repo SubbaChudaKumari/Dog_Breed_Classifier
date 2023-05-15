@@ -14,7 +14,9 @@ This deep learning project puts deep learning concept into practice in particula
 - Model accuracy & loss scores: Dog breed classification - Accuracy & Loss scores of model.xlsx 
 - Dataset (images/ train data/ test data): No. of categories (120) & No. of Images (20,580)
 
+
 #Posted the link as the file itself is quite large approx 800MB - http://vision.stanford.edu/aditya86/ImageNetDogs/main.html 
+
 #Note to user: If you would like to skip to the accruacy and loss, kindly see the .xlsx file in this repository which shows - The model's accuracy increases while the loss decreases as the epoch unit increases as as the shape shows the model is just right hence underfitting & overfitting is avoided. 
 
 
