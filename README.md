@@ -32,11 +32,11 @@ Step 2: Load the stanford data set
 
 
 Step 3: Separate to obtain the dog names from the file name
-As the file names are quite long so used 'spilt' to obtain the later end of the names using 'spilt' and 'os' - the purpose is to ensure the right no. of breeds & images are captured in value as per the dataset specified from its source.
+As the file names are quite long so used 'split' to obtain the later end of the names using 'split' and 'os' - the purpose is to ensure the right no. of breeds & images are captured in value as per the dataset specified from its source.
 
 
 Step 4: Validate and sense check the no. of breeds & images
-As per the source, the spillint of breeds & images are correctly identified as the source which are 120 breeds & 20580 respectively.
+As per the source, the split of breeds & images are correctly identified as the source which are 120 breeds & 20580 respectively.
 
 
 Step 5: Randomly shuffle the data for machine learning
