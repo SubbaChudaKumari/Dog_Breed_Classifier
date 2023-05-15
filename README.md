@@ -47,6 +47,7 @@ This part helps check if the images are really randomly loaded and also to see i
 
 Step 7: Train, test then validate the model
 Resized the images so that all the images in the dataset are consistent. Then the images are spilt into test, train and validation set which are further spilt into 20/64/14.
+
 #Note to self: 
 1. Calculation of the train & validation set are (Train = 80% of 80% is 64% / Validation = 20% of 80% is 14%)
 2. Validation set is important as it helps to avoid overfitting situation and tune the hyperparameters to give us the highest performance rate.
