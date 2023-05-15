@@ -6,12 +6,12 @@ This deep learning project puts deep learning concept into practice in particula
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-2. Content
+2. Content and "file name"
 
-- Image classfication model: Dog breed classifier.py
-- Requirements file: Requirements.in
-- Read me file: Readme.txt
-- Model accuracy & loss scores: Dog breed classification - Accuracy & Loss scores of model.xlsx 
+- Image classfication model: "1. Dog breed classification.py"
+- Requirements file: "2. Requirements.in"
+- Model accuracy & loss scores: "3. Dog breed classification - Accuracy & Loss scores of model.xlsx "
+- Read me: This is the readme texts
 - Dataset (images/ train data/ test data): No. of categories (120) & No. of Images (20,580)
 
 
