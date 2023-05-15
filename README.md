@@ -2,7 +2,7 @@
 
 1. Context
 
-This deep learning project puts deep learning concept into practice in particular to image classficiation - I am using the classic case of stanford dog breed dataset to build a deep learning model that accurately identifies the breed of the dog, the key challenge for this model is to to correctly identify the breed as some breeds have near to identical features of colors and age.
+This deep learning project puts deep learning concept into practice in particular to image classfication - I am using the classic case of stanford dog breed dataset to build a deep learning model that accurately identifies the breed of the dog, the key challenge for this model is to to correctly identify the breed as some breeds have near to identical features of colors and age.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
