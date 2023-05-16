@@ -6,7 +6,7 @@ This deep learning project puts deep learning concept into practice in particula
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-2. Content and "file name"
+# 2. Content and "file name"
 
 - Image classfication model: "1. Dog breed classification.py"
 - Requirements file: "2. Requirements.in"
@@ -22,7 +22,7 @@ This deep learning project puts deep learning concept into practice in particula
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3. Explanation of the script/ code for myself and any user reading this - Just a quick rundown of the steps on how the code works and what functions/ models are used.
+# 3. Explanation of the script/ code for myself and any user reading this - Just a quick rundown of the steps on how the code works and what functions/ models are used.
 
 Step 1: Imported all the relevant libraries
 Libraries such as numpy, os, interools, random, matplotlib, sklearn, keras (preprocess/ Adam, Global Avg Pool, Dense, Dropout, Inception), tensorflow are imported. 
